@@ -17,7 +17,7 @@ namespace Food_tracker
         {
             InitializeComponent();
             LoadFoodData(); 
-            this.dataGridView1.CellContentClick += new DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
+            dataGridView1.CellClick += new DataGridViewCellEventHandler(dataGridView1_CellContentClick);
         }
 
         public void LoadFoodData()
@@ -77,12 +77,34 @@ namespace Food_tracker
 
         private void ShowFoodForm_Load(object sender, EventArgs e)
         {
-            LoadFoodData(); 
+            LoadFoodData();
+            btnEditFood.Hide();
         }
-
+        public static string foodId = "";
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            
+            if(e.RowIndex >= 0)
+            {
+
+                dataGridView1.Rows[e.RowIndex].Selected = true;
+
+                DataGridViewRow row = dataGridView1.Rows[e.RowIndex];
+                foodId = row.Cells["FoodId"].Value.ToString();
+                btnEditFood.Show();
+            }
+        }
+
+        private void btnEditFood_Click(object sender, EventArgs e)
+        {
+            MainForm main = this.MdiParent as MainForm;
+            EditFoodForm editf = new EditFoodForm();
+
+            main.CloseForm();
+
+            editf.MdiParent = main;
+            editf.WindowState = FormWindowState.Maximized;
+            editf.Show();
+
         }
     }
 }

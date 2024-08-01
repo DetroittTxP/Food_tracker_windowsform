@@ -40,6 +40,7 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.btnAddFood = new System.Windows.Forms.Button();
+            this.btnEditFood = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -142,11 +143,22 @@
             this.btnAddFood.UseVisualStyleBackColor = true;
             this.btnAddFood.Click += new System.EventHandler(this.btnAddFood_Click);
             // 
+            // btnEditFood
+            // 
+            this.btnEditFood.Location = new System.Drawing.Point(644, 53);
+            this.btnEditFood.Name = "btnEditFood";
+            this.btnEditFood.Size = new System.Drawing.Size(75, 23);
+            this.btnEditFood.TabIndex = 12;
+            this.btnEditFood.Text = "Edit";
+            this.btnEditFood.UseVisualStyleBackColor = true;
+            this.btnEditFood.Click += new System.EventHandler(this.btnEditFood_Click);
+            // 
             // ShowFoodForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnEditFood);
             this.Controls.Add(this.btnAddFood);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
@@ -182,5 +194,6 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button btnAddFood;
+        private System.Windows.Forms.Button btnEditFood;
     }
 }

@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Detroit\\Documents\\GitHub\\Food_tracker_windowsform\\Food_tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D600E3F9-45AA-476A-9BFF-B750EE916B01}|Food_tracker\\Food_tracker.csproj|c:\\users\\detroit\\documents\\github\\food_tracker_windowsform\\food_tracker\\food_tracker\\editfoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D600E3F9-45AA-476A-9BFF-B750EE916B01}|Food_tracker\\Food_tracker.csproj|solutionrelative:food_tracker\\editfoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D600E3F9-45AA-476A-9BFF-B750EE916B01}|Food_tracker\\Food_tracker.csproj|c:\\users\\detroit\\documents\\github\\food_tracker_windowsform\\food_tracker\\food_tracker\\showfoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D600E3F9-45AA-476A-9BFF-B750EE916B01}|Food_tracker\\Food_tracker.csproj|solutionrelative:food_tracker\\showfoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D600E3F9-45AA-476A-9BFF-B750EE916B01}|Food_tracker\\Food_tracker.csproj|c:\\users\\detroit\\documents\\github\\food_tracker_windowsform\\food_tracker\\food_tracker\\showfoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D600E3F9-45AA-476A-9BFF-B750EE916B01}|Food_tracker\\Food_tracker.csproj|solutionrelative:food_tracker\\showfoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D600E3F9-45AA-476A-9BFF-B750EE916B01}|Food_tracker\\Food_tracker.csproj|c:\\users\\detroit\\documents\\github\\food_tracker_windowsform\\food_tracker\\food_tracker\\editfoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D600E3F9-45AA-476A-9BFF-B750EE916B01}|Food_tracker\\Food_tracker.csproj|solutionrelative:food_tracker\\editfoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D600E3F9-45AA-476A-9BFF-B750EE916B01}|Food_tracker\\Food_tracker.csproj|c:\\users\\detroit\\documents\\github\\food_tracker_windowsform\\food_tracker\\food_tracker\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D600E3F9-45AA-476A-9BFF-B750EE916B01}|Food_tracker\\Food_tracker.csproj|solutionrelative:food_tracker\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowFoodForm.cs",
+              "DocumentMoniker": "C:\\Users\\Detroit\\Documents\\GitHub\\Food_tracker_windowsform\\Food_tracker\\Food_tracker\\ShowFoodForm.cs",
+              "RelativeDocumentMoniker": "Food_tracker\\ShowFoodForm.cs",
+              "ToolTip": "C:\\Users\\Detroit\\Documents\\GitHub\\Food_tracker_windowsform\\Food_tracker\\Food_tracker\\ShowFoodForm.cs",
+              "RelativeToolTip": "Food_tracker\\ShowFoodForm.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAcwFUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:14:00.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditFoodForm.cs",
+              "DocumentMoniker": "C:\\Users\\Detroit\\Documents\\GitHub\\Food_tracker_windowsform\\Food_tracker\\Food_tracker\\EditFoodForm.cs",
+              "RelativeDocumentMoniker": "Food_tracker\\EditFoodForm.cs",
+              "ToolTip": "C:\\Users\\Detroit\\Documents\\GitHub\\Food_tracker_windowsform\\Food_tracker\\Food_tracker\\EditFoodForm.cs",
+              "RelativeToolTip": "Food_tracker\\EditFoodForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA0wBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:38:09.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditFoodForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Detroit\\Documents\\GitHub\\Food_tracker_windowsform\\Food_tracker\\Food_tracker\\EditFoodForm.cs",
+              "RelativeDocumentMoniker": "Food_tracker\\EditFoodForm.cs",
+              "ToolTip": "C:\\Users\\Detroit\\Documents\\GitHub\\Food_tracker_windowsform\\Food_tracker\\Food_tracker\\EditFoodForm.cs [Design]",
+              "RelativeToolTip": "Food_tracker\\EditFoodForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:36:03.9Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowFoodForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Detroit\\Documents\\GitHub\\Food_tracker_windowsform\\Food_tracker\\Food_tracker\\ShowFoodForm.cs",
+              "RelativeDocumentMoniker": "Food_tracker\\ShowFoodForm.cs",
+              "ToolTip": "C:\\Users\\Detroit\\Documents\\GitHub\\Food_tracker_windowsform\\Food_tracker\\Food_tracker\\ShowFoodForm.cs [Design]",
+              "RelativeToolTip": "Food_tracker\\ShowFoodForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:21:55.197Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Detroit\\Documents\\GitHub\\Food_tracker_windowsform\\Food_tracker\\Food_tracker\\MainForm.cs",
+              "RelativeDocumentMoniker": "Food_tracker\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Detroit\\Documents\\GitHub\\Food_tracker_windowsform\\Food_tracker\\Food_tracker\\MainForm.cs [Design]",
+              "RelativeToolTip": "Food_tracker\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:33:24.848Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

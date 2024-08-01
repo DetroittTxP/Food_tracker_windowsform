@@ -11,3 +11,17 @@ C:\Users\Detroit\source\repos\Food_tracker\Food_tracker\obj\Debug\Food_tracker.e
 C:\Users\Detroit\source\repos\Food_tracker\Food_tracker\obj\Debug\Food_tracker.pdb
 C:\Users\Detroit\source\repos\Food_tracker\Food_tracker\obj\Debug\Food_tracker.LoginForm.resources
 C:\Users\Detroit\source\repos\Food_tracker\Food_tracker\obj\Debug\Food_tracker.RegisterForm.resources
+C:\Users\Detroit\Documents\GitHub\Food_tracker_windowsform\Food_tracker\Food_tracker\bin\Debug\Food_tracker.exe.config
+C:\Users\Detroit\Documents\GitHub\Food_tracker_windowsform\Food_tracker\Food_tracker\bin\Debug\Food_tracker.exe
+C:\Users\Detroit\Documents\GitHub\Food_tracker_windowsform\Food_tracker\Food_tracker\bin\Debug\Food_tracker.pdb
+C:\Users\Detroit\Documents\GitHub\Food_tracker_windowsform\Food_tracker\Food_tracker\obj\Debug\Food_tracker.csproj.AssemblyReference.cache
+C:\Users\Detroit\Documents\GitHub\Food_tracker_windowsform\Food_tracker\Food_tracker\obj\Debug\Food_tracker.LoginForm.resources
+C:\Users\Detroit\Documents\GitHub\Food_tracker_windowsform\Food_tracker\Food_tracker\obj\Debug\Food_tracker.MainForm.resources
+C:\Users\Detroit\Documents\GitHub\Food_tracker_windowsform\Food_tracker\Food_tracker\obj\Debug\Food_tracker.Properties.Resources.resources
+C:\Users\Detroit\Documents\GitHub\Food_tracker_windowsform\Food_tracker\Food_tracker\obj\Debug\Food_tracker.RegisterForm.resources
+C:\Users\Detroit\Documents\GitHub\Food_tracker_windowsform\Food_tracker\Food_tracker\obj\Debug\Food_tracker.ShowFoodForm.resources
+C:\Users\Detroit\Documents\GitHub\Food_tracker_windowsform\Food_tracker\Food_tracker\obj\Debug\Food_tracker.csproj.GenerateResource.cache
+C:\Users\Detroit\Documents\GitHub\Food_tracker_windowsform\Food_tracker\Food_tracker\obj\Debug\Food_tracker.csproj.CoreCompileInputs.cache
+C:\Users\Detroit\Documents\GitHub\Food_tracker_windowsform\Food_tracker\Food_tracker\obj\Debug\Food_tracker.exe
+C:\Users\Detroit\Documents\GitHub\Food_tracker_windowsform\Food_tracker\Food_tracker\obj\Debug\Food_tracker.pdb
+C:\Users\Detroit\Documents\GitHub\Food_tracker_windowsform\Food_tracker\Food_tracker\obj\Debug\Food_tracker.EditFoodForm.resources
